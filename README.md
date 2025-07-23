@@ -1,16 +1,20 @@
-# final_q
+# 📚 Summary Tech – Learn Programming Concepts
 
-A new Flutter project.
+Summary Tech is an educational Flutter app created to help students understand programming languages through summarized, simplified explanations from reliable sources.
 
-## Getting Started
+## 🎯 Features
+- Organized summaries of programming concepts
+- Simple navigation and clear layout
+- Great for beginners interested in tech
 
-This project is a starting point for a Flutter application.
+## 🔧 Tech Stack
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 🌟 Goals
+- Provide accessible content for students
+- Enhance learning with minimal and effective design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👩‍💻 Developed by Raha Shaqaqha
